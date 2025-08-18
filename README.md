@@ -196,9 +196,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aakash Sapkota**  
 - 🌐 Website: [aakashsapkota.in.net](https://aakashsapkota.in.net)
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [@YourTwitter]
+- 📧 Email: [sapkotaswikar123@gmail.com]
+- 💼 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/aakashsapkotaa/)]
+- 🐦 Twitter: [[@YourTwitter](https://x.com/aakashsapkotaa)]
 
 ---
 
