@@ -1,0 +1,4 @@
+tkinter
+pandas==1.5.3 
+sqlite3
+ttkbootstrap==1.14.2
